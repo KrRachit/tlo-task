@@ -14,7 +14,10 @@ First, we will define the todoList function.
 
 const todoList = () =>
 all = []
-Here, we will keep the list of all todos inside the all array. A Todo, would have three properties: title, dueDate, completed (of type boolean). And inside the all array, we will store Todos as an object. For ex. { title: 'I need to go to gym', dueDate: '22-06-2022', completed: false }
+Here, we will keep the list of all todos inside the all array. 
+A Todo, would have three properties: title, dueDate, completed (of type boolean). 
+And inside the all array, we will store Todos as an object. 
+For ex. { title: 'I need to go to gym', dueDate: '22-06-2022', completed: false }
 
 Next, let's define the add() function.
 
