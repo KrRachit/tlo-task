@@ -22,11 +22,12 @@ click the download project file in the
 
 5
 00:00:13.600 --> 00:00:16.200
-And it will automatically get downloaded right now.
+And it will automatically get downloaded.
+
 
 6
 00:00:17.100 --> 00:00:17.700
-It's here.
+Right now It's here.
 
 7
 00:00:18.600 --> 00:00:19.800
@@ -34,23 +35,22 @@ The slide this away.
 
 8
 00:00:20.500 --> 00:00:23.000
-Go to your computer this PC.
+Go to your computer, this PC.
 
 9
 00:00:24.500 --> 00:00:27.100
-Go to any drive that you have
+Go to any drive that you have free.
 
 10
 00:00:27.100 --> 00:00:29.600
- free. Just create a new folder.
+Just create a new folder.
 
 11
 00:00:30.600 --> 00:00:32.200
-see Evie
+say Evie 201
 
 12
 00:00:32.800 --> 00:00:33.300
-201
 
 13
 00:00:35.200 --> 00:00:36.800
@@ -66,15 +66,15 @@ Okay.
 
 16
 00:00:42.600 --> 00:00:43.700
-That's it now.
+That's it.
 
 17
 00:00:45.400 --> 00:00:48.200
-In the new folder you have your zip file that you've downloaded.
+Now, In the new folder you have your zip file that you've downloaded.
 
 18
 00:00:49.200 --> 00:00:52.700
-Right click on this I click extract here. You can
+Right click on this, I click extract here. You can
 
 19
 00:00:52.700 --> 00:00:55.300
@@ -82,31 +82,30 @@ Right click on this I click extract here. You can
 
 20
 00:00:56.300 --> 00:01:00.300
-Or you can click extract here in the seven. Zip dropdown
+Or you can click extract here in the seven Zip dropdown
 
 21
 00:00:59.300 --> 00:01:02.800
- Okay, click this or
+ Okay, click this or this,
 
 22
 00:01:02.800 --> 00:01:04.400
- this now click extract here.
+now click extract here.
 
 23
 00:01:06.200 --> 00:01:09.200
-So you have extracted the data that is in
+So you have extracted the data that is in the zip file.
 
 24
 00:01:09.200 --> 00:01:10.600
- the zip file open this
+open this
 
 25
 00:01:11.500 --> 00:01:14.800
-Now what's going to happen is this is the main admin of
+Now what's going to happen is this is the main Arduino file
 
 26
 00:01:14.800 --> 00:01:14.900
- it.
 
 27
 00:01:16.200 --> 00:01:17.200
@@ -126,7 +125,7 @@ Now it's going to cause an error. Let's see what
 
 31
 00:01:23.400 --> 00:01:26.100
-file BMS underscore main dot iono needs to
+file BMS underscore main dot ino needs to
 
 32
 00:01:26.100 --> 00:01:29.400
@@ -158,7 +157,7 @@ What is happening? The BMS underscore main is not
 
 39
 00:01:45.500 --> 00:01:48.400
-Slash Min. So what you need to do is go back.
+Slash Main. So what you need to do is go back.
 
 40
 00:01:49.800 --> 00:01:50.400
@@ -178,11 +177,11 @@ main part
 
 44
 00:02:01.300 --> 00:02:02.000
-right. Let's
+right. 
 
 45
 00:02:04.100 --> 00:02:05.400
-close all the programs.
+Let's close all the programs.
 
 46
 00:02:07.000 --> 00:02:07.200
@@ -382,7 +381,7 @@ Okay, so these are the iterations and this is all all
 
 95
 00:04:45.600 --> 00:04:47.400
- is unable I know but
+ is unreadable I know but
 
 96
 00:04:48.200 --> 00:04:51.700
@@ -398,7 +397,7 @@ This is the Python program. It's called BMS
 
 99
 00:04:56.700 --> 00:04:58.500
- and score analytics dot pi.
+underscore analytics dot pi.
 
 100
 00:05:00.500 --> 00:05:00.800
